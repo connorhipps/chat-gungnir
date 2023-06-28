@@ -19,6 +19,19 @@
 				<false/>
 			</dict>
 		</array>
+		<key>0E17CED0-BCF7-4C0A-9488-B9C1ED72619B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>763B00CE-CBEF-48B7-B1D1-F351D55C09AF</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>49FB33D6-3585-4205-93C5-2F0CBA24BFE6</key>
 		<array>
 			<dict>
@@ -73,6 +86,19 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>01C699BF-56D1-41C9-BF75-C3A1766AD712</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>763B00CE-CBEF-48B7-B1D1-F351D55C09AF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6F587801-0BDB-422A-B0DC-CE6D6F26D173</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -442,29 +468,78 @@ sleep 0.5</string>
 			<key>version</key>
 			<integer>3</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{var:prompt3}
+
+{clipboard}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>763B00CE-CBEF-48B7-B1D1-F351D55C09AF</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>acceptsfiles</key>
+				<false/>
+				<key>acceptsmulti</key>
+				<integer>0</integer>
+				<key>acceptstext</key>
+				<true/>
+				<key>acceptsurls</key>
+				<false/>
+				<key>name</key>
+				<string>CGPT, Prompt #3 🤠</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.universalaction</string>
+			<key>uid</key>
+			<string>0E17CED0-BCF7-4C0A-9488-B9C1ED72619B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string># About ChatGungnir 🏔️
 
 ![Workflow Icon](icon.png)
+
 *"With Gungnir in hand, Odin could conquer any realm, including Asgard itself."*
 
 Gungnir was the magical spear of Odin in Norse mythology, known for its precision and unstoppable power. This play on words replaces "PT" with "Gungnir," implying that ChatGungnir is a platform that is precise, powerful, and unstoppable in facilitating communication. It also suggests that users of the platform can expect to communicate with clarity and accuracy, just as Gungnir never missed its mark.
 
 ---
 
-## Lorem Ipsum
+## How Does It Work? 
 
-This workflow allows you to quickly search for current weather information for any location using the [OpenWeatherMap API](https://openweathermap.org/).
+This Alred workflow allows you to quickly search https://chat.openai.com/ based on an input provided. 
 
-To use the workflow, simply type `weather` followed by the name of the location you want to search for. For example:
+To use the workflow, simply type `chat` (or whichever keyword you determine) followed by your question or request.
 
 
-This will display the current weather information for London.
 
-You can also use the `weather` keyword without any arguments to open the weather search prompt, where you can enter the location you want to search for.
 
-![Workflow Demo](demo.gif)
+
+
+
+
+You can also initiate this workflow using Alfred's [Universal Actions](https://www.alfredapp.com/universal-actions/). This function allows to highlight text and then itneract with it based on a prompt added in the Workflow. 
+
+For example, 
+
+![Universal Action](universalaction.gif)
 
 Note that the workflow requires an API key from OpenWeatherMap. You can obtain a free API key by [creating an account on their website](https://home.openweathermap.org/users/sign_up). Once you have your API key, simply add it to the workflow's configuration variables.
 
@@ -490,6 +565,17 @@ Enjoy the weather search workflow!</string>
 			<real>770</real>
 			<key>ypos</key>
 			<real>415</real>
+		</dict>
+		<key>0E17CED0-BCF7-4C0A-9488-B9C1ED72619B</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>6</integer>
+			<key>note</key>
+			<string>Send Highligthed Text to ChatGPT</string>
+			<key>xpos</key>
+			<real>120</real>
+			<key>ypos</key>
+			<real>890</real>
 		</dict>
 		<key>49FB33D6-3585-4205-93C5-2F0CBA24BFE6</key>
 		<dict>
@@ -537,6 +623,17 @@ Enjoy the weather search workflow!</string>
 			<real>700</real>
 			<key>ypos</key>
 			<real>445</real>
+		</dict>
+		<key>763B00CE-CBEF-48B7-B1D1-F351D55C09AF</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>6</integer>
+			<key>note</key>
+			<string>{var:prompt2} / {clipboard}</string>
+			<key>xpos</key>
+			<real>520</real>
+			<key>ypos</key>
+			<real>890</real>
 		</dict>
 		<key>76B37A52-238F-4DFA-A066-68E0658698F3</key>
 		<dict>

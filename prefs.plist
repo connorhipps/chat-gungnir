@@ -6,5 +6,7 @@
 	<string>Can you rephrase the following paragraph with a semi-formal tone, use contractions, past-tense, and correct the spelling? Do not rephrase what's located within parenthesis, and do not rephrase the words "predef" or "snippet".</string>
 	<key>prompt2</key>
 	<string>Can you rephrase the following paragraph with corrected spelling and grammar and the use of contractions?</string>
+	<key>prompt3</key>
+	<string>Can you make this sound a little more cowboy? Please don't forget to use "Yippee Ki Yay"!</string>
 </dict>
 </plist>
