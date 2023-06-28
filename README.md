@@ -34,6 +34,6 @@ Similar to `Method #2`, you can use select your prompts from a list filter by pr
 
 ## Notes/FAQ
 
-1. The workflow is currently only available for use with the Brave browser, but it can be adapted upon request. 
-2. This is very much a beta product: further testing is needed to 
-3. "Does it work well enough to use in my day-to-day work?" → Yes, it is! 😊 I use it almost every day in some way, shape, or form. 
+1. The workflow is currently only available for use with the **Brave browser**, but it can be adapted upon request. 
+2. This is very much a beta product: further testing is needed to ensure that everything works as expected, every time. 
+3. "Does it work well enough to use in my day-to-day work?" → Yes, it does! 😊 I use it almost every day in some way, shape, or form. 
