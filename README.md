@@ -26,8 +26,6 @@ You can also initiate this workflow using Alfred's [Universal Actions](https://w
 
 ![Universal Action](universalaction.gif)
 
-Note that the workflow requires an API key from OpenWeatherMap. You can obtain a free API key by [creating an account on their website](https://home.openweathermap.org/users/sign_up). Once you have your API key, simply add it to the workflow's configuration variables.
-
 ### Method #3 - List Filter Prompts
 
 Similar to `Method #2`, you can use select your prompts from a list filter by pressing and holding command and typing your selected keyword. This will take the **most recent clipboard** item and apply the prompt to it. 
@@ -38,4 +36,4 @@ Similar to `Method #2`, you can use select your prompts from a list filter by pr
 
 1. The workflow is currently only available for use with the Brave browser, but it can be adapted upon request. 
 2. This is very much a beta product: further testing is needed to 
-3. "Does it work well enough to use in my day-to-day work?" → Yes, it is! :) I use it almost every day in some way, shape, or form. 
+3. "Does it work well enough to use in my day-to-day work?" → Yes, it is! 😊 I use it almost every day in some way, shape, or form. 
