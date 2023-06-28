@@ -512,7 +512,7 @@ sleep 0.5</string>
 		</dict>
 	</array>
 	<key>readme</key>
-	<string># About ChatGungnir 🏔️
+	<string># ChatGungnir 🏔️ - An Alfred Workflow for ChatGPT
 
 ![Workflow Icon](icon.png)
 
@@ -815,8 +815,6 @@ Similar to `Method #2`, you can use select your prompts from a list filter by pr
 			<string>browserchoice</string>
 		</dict>
 	</array>
-	<key>variablesdontexport</key>
-	<array/>
 	<key>version</key>
 	<string>1.0.0</string>
 	<key>webaddress</key>

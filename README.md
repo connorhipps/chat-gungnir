@@ -1,4 +1,4 @@
-# About ChatGungnir 🏔️
+# ChatGungnir 🏔️ - An Alfred Workflow for ChatGPT
 
 ![Workflow Icon](icon.png)
 
