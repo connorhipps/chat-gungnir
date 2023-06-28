@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>Asgard</string>
+	<key>connections</key>
+	<dict>
+		<key>01C699BF-56D1-41C9-BF75-C3A1766AD712</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>53827F4D-D79C-4A06-A397-8270BCAC6512</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>49FB33D6-3585-4205-93C5-2F0CBA24BFE6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AFFD8E38-99DF-4254-A9EA-19F3FD7BC8D8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>FD2F1335-ACDB-48CD-A1F3-023041B41937</string>
+				<key>modifiers</key>
+				<integer>1048576</integer>
+				<key>modifiersubtext</key>
+				<string>List Filter ✒️</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>59AA6021-6946-468B-BC73-D349C24F1E1A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6F587801-0BDB-422A-B0DC-CE6D6F26D173</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>69439F0B-ACA2-4D0A-9165-98612E3A0FF6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A6B5533F-577B-412A-9CDA-F9472A6B2316</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6F587801-0BDB-422A-B0DC-CE6D6F26D173</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>01C699BF-56D1-41C9-BF75-C3A1766AD712</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>76B37A52-238F-4DFA-A066-68E0658698F3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6F587801-0BDB-422A-B0DC-CE6D6F26D173</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>86F166D0-B6D3-4524-8747-1919AEAD9F4A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>59AA6021-6946-468B-BC73-D349C24F1E1A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A6B5533F-577B-412A-9CDA-F9472A6B2316</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6F587801-0BDB-422A-B0DC-CE6D6F26D173</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A71279C6-1672-4AB6-9052-1324ED7272BE</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6F587801-0BDB-422A-B0DC-CE6D6F26D173</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>AFFD8E38-99DF-4254-A9EA-19F3FD7BC8D8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>76B37A52-238F-4DFA-A066-68E0658698F3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>FD2F1335-ACDB-48CD-A1F3-023041B41937</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A71279C6-1672-4AB6-9052-1324ED7272BE</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>Connor Hipps</string>
+	<key>description</key>
+	<string>Opens ChatGPT w/ Customization Options</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>ChatGungnir</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>76B37A52-238F-4DFA-A066-68E0658698F3</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>enter</string>
+				<key>text</key>
+				<string>Type what you wish to ask/search ChatGPT</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>AFFD8E38-99DF-4254-A9EA-19F3FD7BC8D8</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>#!/bin/bash
+
+# Get the contents of the clipboard
+clipboard=$(pbpaste)
+
+# Check if Brave is running
+is_brave_running=$(osascript -e 'if application "Brave Browser" is running then return 1 else return 0 end if')
+
+# If Brave is not running, open it
+if [ $is_brave_running -eq 0 ]; then
+    open -a "Brave Browser"
+    sleep 5 # Wait for Brave to launch
+fi
+
+# Open the Chat OpenAI website in Brave
+open -a "Brave Browser" https://chat.openai.com/
+
+# Wait for the page to load
+sleep 3
+
+# Focus on the message input box using JavaScript
+osascript -e 'tell application "Brave Browser" to activate' -e 'tell application "Brave Browser" to execute javascript "document.querySelectorAll(\"[data-slate-editor]\")[0].focus()"'
+
+# Paste the combined message into the input box
+osascript -e 'tell application "Brave Browser" to activate' -e 'tell application "System Events" to keystroke "v" using command down'
+
+# Wait a bit for the text to be pasted
+sleep 0.5</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>01C699BF-56D1-41C9-BF75-C3A1766AD712</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>{var:keyword}</string>
+				<key>subtext</key>
+				<string>Opens ChatGPT w/ Prompts 🤖</string>
+				<key>text</key>
+				<string>ChatGungnir</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>49FB33D6-3585-4205-93C5-2F0CBA24BFE6</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>count</key>
+				<integer>1</integer>
+				<key>keychar</key>
+				<string>↩</string>
+				<key>keycode</key>
+				<integer>36</integer>
+				<key>keymod</key>
+				<integer>0</integer>
+				<key>overridewithargument</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.dispatchkeycombo</string>
+			<key>uid</key>
+			<string>53827F4D-D79C-4A06-A397-8270BCAC6512</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>fixedorder</key>
+				<true/>
+				<key>items</key>
+				<string>[{"title":"Prompt #1","arg":"{var:prompt1}","subtitle":"Semi-Formal, Spelling, Grammar, Contractions"},{"title":"Prompt #2","arg":"{var:prompt2}","subtitle":"Grammar, Spelling, Contractions"}]</string>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string></string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.listfilter</string>
+			<key>uid</key>
+			<string>FD2F1335-ACDB-48CD-A1F3-023041B41937</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{query}
+
+{clipboard}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>A71279C6-1672-4AB6-9052-1324ED7272BE</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>6F587801-0BDB-422A-B0DC-CE6D6F26D173</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>acceptsfiles</key>
+				<false/>
+				<key>acceptsmulti</key>
+				<integer>0</integer>
+				<key>acceptstext</key>
+				<true/>
+				<key>acceptsurls</key>
+				<false/>
+				<key>name</key>
+				<string>CGPT, Prompt #1 🤖</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.universalaction</string>
+			<key>uid</key>
+			<string>86F166D0-B6D3-4524-8747-1919AEAD9F4A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{var:prompt1}
+
+{clipboard}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>59AA6021-6946-468B-BC73-D349C24F1E1A</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>acceptsfiles</key>
+				<false/>
+				<key>acceptsmulti</key>
+				<integer>0</integer>
+				<key>acceptstext</key>
+				<true/>
+				<key>acceptsurls</key>
+				<false/>
+				<key>name</key>
+				<string>CGPT, Prompt #2 🤖</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.universalaction</string>
+			<key>uid</key>
+			<string>69439F0B-ACA2-4D0A-9165-98612E3A0FF6</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{var:prompt2}
+
+{clipboard}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>A6B5533F-577B-412A-9CDA-F9472A6B2316</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string># About ChatGungnir 🏔️
+
+![Workflow Icon](icon.png)
+*"With Gungnir in hand, Odin could conquer any realm, including Asgard itself."*
+
+Gungnir was the magical spear of Odin in Norse mythology, known for its precision and unstoppable power. This play on words replaces "PT" with "Gungnir," implying that ChatGungnir is a platform that is precise, powerful, and unstoppable in facilitating communication. It also suggests that users of the platform can expect to communicate with clarity and accuracy, just as Gungnir never missed its mark.
+
+---
+
+## Lorem Ipsum
+
+This workflow allows you to quickly search for current weather information for any location using the [OpenWeatherMap API](https://openweathermap.org/).
+
+To use the workflow, simply type `weather` followed by the name of the location you want to search for. For example:
+
+
+This will display the current weather information for London.
+
+You can also use the `weather` keyword without any arguments to open the weather search prompt, where you can enter the location you want to search for.
+
+![Workflow Demo](demo.gif)
+
+Note that the workflow requires an API key from OpenWeatherMap. You can obtain a free API key by [creating an account on their website](https://home.openweathermap.org/users/sign_up). Once you have your API key, simply add it to the workflow's configuration variables.
+
+Enjoy the weather search workflow!
+
+
+This will display the current weather information for London.
+
+You can also use the `weather` keyword without any arguments to open the weather search prompt, where you can enter the location you want to search for.
+
+![Workflow Demo](demo.gif)
+
+Note that the workflow requires an API key from OpenWeatherMap. You can obtain a free API key by [creating an account on their website](https://home.openweathermap.org/users/sign_up). Once you have your API key, simply add it to the workflow's configuration variables.
+
+Enjoy the weather search workflow!</string>
+	<key>uidata</key>
+	<dict>
+		<key>01C699BF-56D1-41C9-BF75-C3A1766AD712</key>
+		<dict>
+			<key>note</key>
+			<string>Works with text added to Configure Workflow.</string>
+			<key>xpos</key>
+			<real>770</real>
+			<key>ypos</key>
+			<real>415</real>
+		</dict>
+		<key>49FB33D6-3585-4205-93C5-2F0CBA24BFE6</key>
+		<dict>
+			<key>note</key>
+			<string>Uses Keyword in Configure Workflow</string>
+			<key>xpos</key>
+			<real>120</real>
+			<key>ypos</key>
+			<real>415</real>
+		</dict>
+		<key>53827F4D-D79C-4A06-A397-8270BCAC6512</key>
+		<dict>
+			<key>note</key>
+			<string>Submits query.</string>
+			<key>xpos</key>
+			<real>930</real>
+			<key>ypos</key>
+			<real>415</real>
+		</dict>
+		<key>59AA6021-6946-468B-BC73-D349C24F1E1A</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>6</integer>
+			<key>note</key>
+			<string>{var:prompt1} / {clipboard}</string>
+			<key>xpos</key>
+			<real>520</real>
+			<key>ypos</key>
+			<real>565</real>
+		</dict>
+		<key>69439F0B-ACA2-4D0A-9165-98612E3A0FF6</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>6</integer>
+			<key>note</key>
+			<string>Send Highligthed Text to ChatGPT</string>
+			<key>xpos</key>
+			<real>120</real>
+			<key>ypos</key>
+			<real>725</real>
+		</dict>
+		<key>6F587801-0BDB-422A-B0DC-CE6D6F26D173</key>
+		<dict>
+			<key>xpos</key>
+			<real>700</real>
+			<key>ypos</key>
+			<real>445</real>
+		</dict>
+		<key>76B37A52-238F-4DFA-A066-68E0658698F3</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>note</key>
+			<string>{query}</string>
+			<key>xpos</key>
+			<real>520</real>
+			<key>ypos</key>
+			<real>265</real>
+		</dict>
+		<key>86F166D0-B6D3-4524-8747-1919AEAD9F4A</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>6</integer>
+			<key>note</key>
+			<string>Send Highligthed Text to ChatGPT</string>
+			<key>xpos</key>
+			<real>120</real>
+			<key>ypos</key>
+			<real>565</real>
+		</dict>
+		<key>A6B5533F-577B-412A-9CDA-F9472A6B2316</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>6</integer>
+			<key>note</key>
+			<string>{var:prompt2} / {clipboard}</string>
+			<key>xpos</key>
+			<real>520</real>
+			<key>ypos</key>
+			<real>725</real>
+		</dict>
+		<key>A71279C6-1672-4AB6-9052-1324ED7272BE</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>3</integer>
+			<key>note</key>
+			<string>{query} / {clipboard}</string>
+			<key>xpos</key>
+			<real>520</real>
+			<key>ypos</key>
+			<real>415</real>
+		</dict>
+		<key>AFFD8E38-99DF-4254-A9EA-19F3FD7BC8D8</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>note</key>
+			<string>Enter prompt for ChatGPT.</string>
+			<key>xpos</key>
+			<real>335</real>
+			<key>ypos</key>
+			<real>265</real>
+		</dict>
+		<key>FD2F1335-ACDB-48CD-A1F3-023041B41937</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>3</integer>
+			<key>note</key>
+			<string>Listed Prompts</string>
+			<key>xpos</key>
+			<real>335</real>
+			<key>ypos</key>
+			<real>415</real>
+		</dict>
+	</dict>
+	<key>userconfigurationconfig</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string>chat</string>
+				<key>placeholder</key>
+				<string></string>
+				<key>required</key>
+				<true/>
+				<key>trim</key>
+				<true/>
+			</dict>
+			<key>description</key>
+			<string>Keyword to Trigger Workflow</string>
+			<key>label</key>
+			<string>Keyword</string>
+			<key>type</key>
+			<string>textfield</string>
+			<key>variable</key>
+			<string>keyword</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string></string>
+				<key>required</key>
+				<false/>
+				<key>trim</key>
+				<true/>
+				<key>verticalsize</key>
+				<integer>6</integer>
+			</dict>
+			<key>description</key>
+			<string>This is a prompt that will be appended to the front of your most recent clipboard item.</string>
+			<key>label</key>
+			<string>Prompt #1</string>
+			<key>type</key>
+			<string>textarea</string>
+			<key>variable</key>
+			<string>prompt1</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string></string>
+				<key>required</key>
+				<false/>
+				<key>trim</key>
+				<true/>
+				<key>verticalsize</key>
+				<integer>6</integer>
+			</dict>
+			<key>description</key>
+			<string></string>
+			<key>label</key>
+			<string>Prompt #2</string>
+			<key>type</key>
+			<string>textarea</string>
+			<key>variable</key>
+			<string>prompt2</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string></string>
+				<key>required</key>
+				<false/>
+				<key>trim</key>
+				<true/>
+				<key>verticalsize</key>
+				<integer>6</integer>
+			</dict>
+			<key>description</key>
+			<string></string>
+			<key>label</key>
+			<string>Prompt #3</string>
+			<key>type</key>
+			<string>textarea</string>
+			<key>variable</key>
+			<string>prompt3</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string>bravebrowser</string>
+				<key>pairs</key>
+				<array>
+					<array>
+						<string>Brave</string>
+						<string>bravebrowser</string>
+					</array>
+					<array>
+						<string>Firefox</string>
+						<string>firefoxbrowser</string>
+					</array>
+					<array>
+						<string>Edge</string>
+						<string>edgebrowser</string>
+					</array>
+				</array>
+			</dict>
+			<key>description</key>
+			<string></string>
+			<key>label</key>
+			<string>Preferred Browser</string>
+			<key>type</key>
+			<string>popupbutton</string>
+			<key>variable</key>
+			<string>browserchoice</string>
+		</dict>
+	</array>
+	<key>version</key>
+	<string>1.0.0</string>
+	<key>webaddress</key>
+	<string></string>
+</dict>
+</plist>
