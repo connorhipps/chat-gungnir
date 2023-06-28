@@ -1,38 +1,41 @@
-## Dev ##
-
 # About ChatGungnir 🏔️
 
 ![Workflow Icon](icon.png)
+
 *"With Gungnir in hand, Odin could conquer any realm, including Asgard itself."*
 
 Gungnir was the magical spear of Odin in Norse mythology, known for its precision and unstoppable power. This play on words replaces "PT" with "Gungnir," implying that ChatGungnir is a platform that is precise, powerful, and unstoppable in facilitating communication. It also suggests that users of the platform can expect to communicate with clarity and accuracy, just as Gungnir never missed its mark.
 
 ---
 
-## Lorem Ipsum
+## How Does It Work? 
 
-This workflow allows you to quickly search for current weather information for any location using the [OpenWeatherMap API](https://openweathermap.org/).
+This Alred workflow allows you to quickly search https://chat.openai.com/ based on an input provided. There are a few ways to work with your data, each of which are outlined below. 
 
-To use the workflow, simply type `weather` followed by the name of the location you want to search for. For example:
+This workflow is designed to work with both **paid and free accounts** for ChatGPT. 
 
+### Method #1 - Basic Search
 
-This will display the current weather information for London.
+To use the workflow, simply type `chat` (or whichever keyword you determine) followed by your question or request.
 
-You can also use the `weather` keyword without any arguments to open the weather search prompt, where you can enter the location you want to search for.
+![Example Search](examplesearch.gif)
 
-![Workflow Demo](demo.gif)
+### Method #2 - Universal Actions
 
-Note that the workflow requires an API key from OpenWeatherMap. You can obtain a free API key by [creating an account on their website](https://home.openweathermap.org/users/sign_up). Once you have your API key, simply add it to the workflow's configuration variables.
+You can also initiate this workflow using Alfred's [Universal Actions](https://www.alfredapp.com/universal-actions/). This function allows to highlight text and then interact with it based on a prompt added in the Workflow. 
 
-Enjoy the weather search workflow!
-
-
-This will display the current weather information for London.
-
-You can also use the `weather` keyword without any arguments to open the weather search prompt, where you can enter the location you want to search for.
-
-![Workflow Demo](demo.gif)
+![Universal Action](universalaction.gif)
 
 Note that the workflow requires an API key from OpenWeatherMap. You can obtain a free API key by [creating an account on their website](https://home.openweathermap.org/users/sign_up). Once you have your API key, simply add it to the workflow's configuration variables.
 
-Enjoy the weather search workflow!
+### Method #3 - List Filter Prompts
+
+Similar to `Method #2`, you can use select your prompts from a list filter by pressing and holding command and typing your selected keyword. This will take the **most recent clipboard** item and apply the prompt to it. 
+
+![List Filter](listfilter.gif)
+
+## Notes/FAQ
+
+1. The workflow is currently only available for use with the Brave browser, but it can be adapted upon request. 
+2. This is very much a beta product: further testing is needed to 
+3. "Does it work well enough to use in my day-to-day work?" → Yes, it is! :) I use it almost every day in some way, shape, or form. 
